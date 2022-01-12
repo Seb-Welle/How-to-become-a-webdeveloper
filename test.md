@@ -9,9 +9,9 @@ Welcome to my profile :)
 
 ### What I bring to the table
 - [x] Interest
-- [x ] Will
-- [ x] Hard work
-- [ x] Diligence
+- [x] Will
+- [x] Hard work
+- [x] Diligence
 - [ ] Hakuna Matata
 
 ## Überschrift 3
