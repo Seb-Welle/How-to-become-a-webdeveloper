@@ -8,10 +8,10 @@ Welcome to my profile :)
   - CSS
 
 ### What I bring to the table
-- [ ] Interest
-- [ ] Will
-- [ ] Hard work
-- [ ] Diligence
+- [x] Interest
+- [x ] Will
+- [ x] Hard work
+- [ x] Diligence
 - [ ] Hakuna Matata
 
 ## Überschrift 3
