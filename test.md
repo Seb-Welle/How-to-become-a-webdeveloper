@@ -17,4 +17,4 @@ Welcome to my profile :)
 
 ## How to achieve my goals
 
-Click [this link](https://google.com)
+Click [here](https://google.com)
