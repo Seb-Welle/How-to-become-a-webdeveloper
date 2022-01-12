@@ -6,6 +6,7 @@ Welcome to my profile :)
   - Python
   - JavaScript
   - CSS
+  - HTML
 
 ### What I bring to the table
 - [x] Interest
