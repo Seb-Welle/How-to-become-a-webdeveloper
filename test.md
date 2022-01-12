@@ -18,3 +18,14 @@ Welcome to my profile :)
 ## How to achieve my goals
 
 Click [here](https://google.com)
+
+### If it did not work out
+
+- Go to [Step 1](#topic-1)
+- Go to [Step 2](#topic-2)
+
+#### Step 1
+Click [here](https://google.com)
+
+#### Step 2
+Click [here](https://google.com)
