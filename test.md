@@ -1,4 +1,5 @@
-# Sebastians Profil
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")   # Sebastians Profil   ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 Welcome to my profile :)
 
 ## I plan to learn the following
@@ -36,3 +37,5 @@ Click [here](https://google.com)
 #### Step 2
 Click [here](https://google.com)
 
+ 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
