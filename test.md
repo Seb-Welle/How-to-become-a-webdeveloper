@@ -23,32 +23,7 @@ Click [here](https://google.com)
 
 - Go to [Step 1](#step-1)
 - Go to [Step 2](#step-2)
-.
-.
-.
-.
-.
-.
-.
-.
-..
-.
-.
-.
-.
-.
-.
-.
-.
 
-.
-.
-.
-.
-.
-.
-.
-.
 
 #### Step 1
 Click [here](https://google.com)
