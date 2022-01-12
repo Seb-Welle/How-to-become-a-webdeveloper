@@ -6,6 +6,12 @@ Welcome to my profile :)
   - Python
   - JavaScript
   - CSS
-### Unterüberschrift
-Haha
+
+### What I bring to the table
+- [ ] Interest
+- [ ] Will
+- [ ] Hard work
+- [ ] Diligence
+- [ ] Hakuna Matata
+
 ## Überschrift 3
