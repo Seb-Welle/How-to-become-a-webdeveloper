@@ -15,6 +15,8 @@ Welcome to my profile :)
 - [x] Diligence
 - [ ] Hakuna Matata
 
+##### Markdown Cheatsheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 ## How to achieve my goals
 
 Click [here](https://google.com)
@@ -31,4 +33,3 @@ Click [here](https://google.com)
 #### Step 2
 Click [here](https://google.com)
 
-##### Markdown cheat sheet (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
