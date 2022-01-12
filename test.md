@@ -24,6 +24,9 @@ Click [here](https://google.com)
 ### If it did not work out
 
 - Go to [Step 1](#step-1)
+
+alternatively
+
 - Go to [Step 2](#step-2)
 
 
