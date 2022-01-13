@@ -18,9 +18,9 @@ Welcome to my profile :)
 
 ### Assistance
 
-##### Markdown Cheatsheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+##### Markdown Cheatsheet Click [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-##### emmet Cheatsheet [here](https://docs.emmet.io/cheat-sheet/)
+##### emmet Cheatsheet (HTML Codes) Click [here](https://docs.emmet.io/cheat-sheet/)
 
 ## How to achieve my goals
 
