@@ -42,7 +42,7 @@ alternativly
 Click [here](https://google.com)
 
 #### Step 2
-Click [[here](https://www.youtube.com/watch?v=owTPZQQAVyQ=)
+Click [here](https://www.youtube.com/watch?v=owTPZQQAVyQ=)
 
 #### Step 3
 Click [here](https://google.com)
