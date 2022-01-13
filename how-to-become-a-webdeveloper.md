@@ -42,7 +42,7 @@ alternativly
 Click [here](https://google.com)
 
 #### Step 2
-Click [![here](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=owTPZQQAVyQ=YOUTUBE_VIDEO_ID_HERE)
+Click [[here](https://www.youtube.com/watch?v=owTPZQQAVyQ=)
 
 #### Step 3
 Click [here](https://google.com)
