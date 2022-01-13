@@ -16,7 +16,11 @@ Welcome to my profile :)
 - [x] Diligence
 - [ ] Hakuna Matata
 
+### Assistance
+
 ##### Markdown Cheatsheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+##### emmet Cheatsheet [here](https://docs.emmet.io/cheat-sheet/)
 
 ## How to achieve my goals
 
