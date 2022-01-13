@@ -22,6 +22,8 @@ Welcome to my profile :)
 
 ##### emmet Cheatsheet (HTML Codes) Click [here](https://docs.emmet.io/cheat-sheet/)
 
+##### First-Time Git Setup Click [here](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
+
 ## How to achieve my goals
 
 Click [here](https://google.com)
