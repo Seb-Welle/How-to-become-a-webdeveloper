@@ -24,6 +24,8 @@ Welcome to my profile :)
 
 ##### First-Time Git Setup Click [here](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
 
+##### Youtube Video: Vim Basics in 8 Minutes Click [here](https://www.youtube.com/watch?v=ggSyF1SVFr4)
+
 ## How to achieve my goals
 
 Click [here](https://google.com)
