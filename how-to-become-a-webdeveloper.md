@@ -18,13 +18,23 @@ Welcome to my profile :)
 
 ### Assistance
 
-##### Markdown Cheatsheet Click [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-##### emmet Cheatsheet (HTML Codes) Click [here](https://docs.emmet.io/cheat-sheet/)
+#### Aids for setting ups
 
 ##### First-Time Git Setup Click [here](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
 
 ##### Youtube Video: Vim Basics in 8 Minutes Click [here](https://www.youtube.com/watch?v=ggSyF1SVFr4)
+
+#### Aids for Markdown
+
+##### Markdown Cheatsheet Click [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+#### Aids for HTML
+
+##### emmet Cheatsheet (HTML Codes) Click [here](https://docs.emmet.io/cheat-sheet/)
+
+##### Markup Validator (Checks a website for permitted content) Click [here](https://validator.w3.org/)
+
+
 
 ## How to achieve my goals
 
