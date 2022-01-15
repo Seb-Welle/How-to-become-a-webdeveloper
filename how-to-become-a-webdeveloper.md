@@ -36,6 +36,8 @@ Welcome to my profile :)
 
 ##### The Anatomy of HTML Documents (Attributes) Click [here](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
 
+##### Standard metadata names on MDN (Meta Elements) Click [here](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
+
 
 
 ## How to achieve my goals
