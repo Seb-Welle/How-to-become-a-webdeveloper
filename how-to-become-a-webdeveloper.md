@@ -38,6 +38,8 @@ Welcome to my profile :)
 
 ##### Standard metadata names on MDN (Meta Elements) Click [here](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
 
+##### List of all semantic HTML elements on MDN Click [here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+
 
 
 ## How to achieve my goals
