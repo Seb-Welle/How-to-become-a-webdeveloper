@@ -42,6 +42,14 @@ Welcome to my profile :)
 
 
 
+
+### Helpful tools for creating websites
+
+#### Lighthouse (to check the website for web accessibility) Click [here](https://developers.google.com/web/tools/lighthouse) ore  [here](https://web.dev/measure/?gclid=EAIaIQobChMIn8bVxJC29QIVk813Ch0JYgOkEAAYASAAEgJeAPD_BwE)
+
+
+
+
 ## How to achieve my goals
 
 Click [here](https://google.com)
