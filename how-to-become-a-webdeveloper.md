@@ -40,6 +40,8 @@ Welcome to my profile :)
 
 ##### List of all semantic HTML elements on MDN Click [here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
+##### HTML Documentation Click [here](https://devdocs.io/html/)
+
 
 
 
