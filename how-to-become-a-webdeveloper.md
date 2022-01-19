@@ -49,6 +49,8 @@ Welcome to my profile :)
 
 ##### Fonts Click [here](https://fonts.google.com/)
 
+##### List of all Pseudo Classes Click [here](https://developer.mozilla.org/de/docs/Web/CSS/Pseudo-classes)
+
 
 ### Helpful tools for creating websites
 
