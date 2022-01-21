@@ -51,6 +51,10 @@ Welcome to my profile :)
 
 ##### List of all Pseudo Classes Click [here](https://developer.mozilla.org/de/docs/Web/CSS/Pseudo-classes)
 
+##### reset-css Click  [here](https://github.com/shannonmoeller/reset-css/blob/master/reset.css)
+
+##### normalize-css Click  [here](https://unpkg.com/normalize.css@8.0.1/normalize.css)
+
 
 ### Helpful tools for creating websites
 
