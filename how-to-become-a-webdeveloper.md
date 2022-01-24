@@ -55,7 +55,7 @@ Welcome to my profile :)
 
 ##### normalize-css Click  [here](https://unpkg.com/normalize.css@8.0.1/normalize.css)
 
-##### CSS-Tricks Click  [here](https://css.tricks.com)
+##### CSS-Tricks Click (position-sticky) [here](https://css-tricks.com/position-sticky-2/)
 
 
 ### Helpful tools for creating websites
