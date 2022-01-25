@@ -65,6 +65,18 @@ Welcome to my profile :)
 #### Lighthouse (to check the website for web accessibility) Click [here](https://developers.google.com/web/tools/lighthouse) ore  [here](https://web.dev/measure/?gclid=EAIaIQobChMIn8bVxJC29QIVk813Ch0JYgOkEAAYASAAEgJeAPD_BwE)
 
 
+#### Aids for CSS Flexboxes
+
+##### A Complete Guide to Flexbox Click [here](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+##### Flexbox Patterns Click [here](https://flexboxpatterns.com/)
+
+##### Test CSS Flexbox rules Click [here](https://flexbox.help/)
+
+##### Flexbox Froggy (Game) Click [here](https://flexboxfroggy.com/#de)
+
+##### Flexy Boxes (Game) Click [here](https://the-echoplex.net/flexyboxes/)
+
 
 
 ## How to achieve my goals
