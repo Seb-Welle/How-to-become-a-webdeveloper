@@ -65,7 +65,7 @@ Welcome to my profile :)
 #### Lighthouse (to check the website for web accessibility) Click [here](https://developers.google.com/web/tools/lighthouse) ore  [here](https://web.dev/measure/?gclid=EAIaIQobChMIn8bVxJC29QIVk813Ch0JYgOkEAAYASAAEgJeAPD_BwE)
 
 
-#### Aids for CSS Flexboxes
+#### Aids for advanced CSS
 
 ##### A Complete Guide to Flexbox Click [here](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
@@ -82,6 +82,8 @@ Welcome to my profile :)
 ##### CSS Background Pattern Gallary Click [here](https://projects.verou.me/css3patterns/)
 
 ##### Articel about multiple background images Click [here](https://css-tricks.com/css-basics-using-multiple-backgrounds/)
+
+##### A Complete Guide to Custom Properties Click [here](https://css-tricks.com/a-complete-guide-to-custom-properties/)
 
 
 
