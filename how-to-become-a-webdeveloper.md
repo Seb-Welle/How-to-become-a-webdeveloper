@@ -77,6 +77,16 @@ Welcome to my profile :)
 
 ##### Flexy Boxes (Game) Click [here](https://the-echoplex.net/flexyboxes/)
 
+##### CSS Gradient Generator Click [here](https://cssgradient.io/)
+
+##### CSS Background Pattern Gallary Click [here](https://projects.verou.me/css3patterns/)
+
+##### Articel about multiple background images Click [here](https://css-tricks.com/css-basics-using-multiple-backgrounds/)
+
+
+
+
+
 
 
 ## How to achieve my goals
